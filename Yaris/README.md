@@ -3,9 +3,9 @@ More updates are to come with this API!
 Module Creator: Linen#3485
 Yaris Discord Server: https://discord.gg/qVBtSYXX72
 Note: I do not work with yaris. I made this module for free since I supported it
-========================================
+
 Usage:
-    ```javascript
+    ```javascript Code
     const yaris = require("yaris-api")
     yaris.setAPIKEY("API KEY HERE") // If you don't include this, it wont work
     // then you can start using it
