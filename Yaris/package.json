@@ -1,0 +1,15 @@
+{
+  "name": "yaris",
+  "version": "1.0.0",
+  "description": "The Official API/Wrapper for https://yaris.rocks/beta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "RealLinen/PublicAPI/tree/main/Yaris"
+  },
+  "author": "Linen#3485",
+  "license": "ISC"
+}
